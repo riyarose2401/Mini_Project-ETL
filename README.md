@@ -42,7 +42,7 @@ Raw Dataset → Extract → Transform → Reports → Load
 # 5. List of Transformations
 The following transformations were performed on the dataset:
 
-#1.Duplicate Removal – Removed duplicate house records.
+1.Duplicate Removal – Removed duplicate house records.
 
 2.Missing Value Handling – Filled missing numerical values using the median and categorical values using the mode.
 
